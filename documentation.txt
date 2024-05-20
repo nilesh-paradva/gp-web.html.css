@@ -1,0 +1,25 @@
+reference:- https://bootstrapmade.com/demo/Gp/
+
+primary-bg-color: #fff;
+secondary-bg-color1: #000000cc,#151515,#000000;
+primary-btn-bg-color: #ffc451;
+
+primary-text-heading-color: #151515;
+secondary-text-heading-color1: #444444,#fff;
+
+primary-text-dis-color: #444444;
+secondary-text-dis-color: #848484,#fff;
+
+heading-font-family: 'Raleway';
+secondary-font-heading: 'Poppins';
+primary-dis-font-family: 'Open Sans SemiCondensed';
+
+
+#013A20 green
+#D4D6CF text color
+
+#050A30 dark blue bg color
+#7EC8E3 text color
+
+#05445E navy blue bg color
+#D4F1F4 text color
